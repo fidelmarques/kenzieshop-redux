@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { Button as btn } from "../Header/style";
 
 export const Card = styled.div`
   display: flex;
